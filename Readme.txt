@@ -1,6 +1,6 @@
 Topic: Student Adaptability Level
 
-Demo video link: https://drive.google.com/file/d/1YIypWHcRCv7FNutdTKgloiC1iHZSX9x3/view?usp=sharing
+Demo video link: https://drive.google.com/file/d/1_7ufwDMyzLMjScVgXFLuzy-rszILyGZq/view?usp=sharing
 
 Forms folder: Include mail code for contact us form
 Static folder: Include all the css and javascript file along with images
